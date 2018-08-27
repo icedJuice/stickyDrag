@@ -1,0 +1,23 @@
+{
+  "name": "stickydrag",
+  "version": "1.0.0",
+  "description": "Drag and delete imitation QQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icedJuice/stickyDrag.git"
+  },
+  "keywords": [
+    "drag",
+    "sticky"
+  ],
+  "author": "icedJuice (1210712996@qq.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icedJuice/stickyDrag/issues"
+  },
+  "homepage": "https://github.com/icedJuice/stickyDrag#readme"
+}
